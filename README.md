@@ -1,11 +1,11 @@
 # communicating-between-fragment
- 4 ways of communicating between fragment in Android  
+## 4 ways of communicating between fragment in Android  
  
 There are several ways of communicating between Fragment and Activity in Android. But I would like to explain a popular one.
 
-Using Interface
-Using RxJava
-Using EventBus
-Using ViewModel
+-[Using Interface](https://androidwave.com/fragment-communication-using-interface/)
+-[Using RxJava](https://androidwave.com/fragment-communication-using-rxjava/)
+-[Using EventBus](https://androidwave.com/fragment-communication-using-eventbus/)
+-[Using ViewModel](https://androidwave.com/fragment-communication-using-viewmodel/)
 
-https://androidwave.com/passing-data-between-fragments/
+[Some popular ways to communicating between Fragment in android](https://androidwave.com/passing-data-between-fragments/)
